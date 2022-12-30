@@ -1,0 +1,2 @@
+select  employer_id ,in_network_npis
+from employer_in_network
